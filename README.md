@@ -63,7 +63,7 @@ minikube service mongo-express-service
 
   kubectl delete configmap mongodb-configmap
   
-  kubectl delete configmap mongodb-secret
+  kubectl delete secret mongodb-secret
 
 
 
