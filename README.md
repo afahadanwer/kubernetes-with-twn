@@ -27,7 +27,7 @@ kubectl get all
 
 minikube service mongo-express-service
 
-Above minikube will give following output, 
+**Above minikube will give following output, **
 
 |-----------|-----------------------|-------------|-----------------------------|
 | NAMESPACE |         NAME          | TARGET PORT |             URL             |
@@ -37,9 +37,8 @@ Above minikube will give following output,
 
 
 
-Now go to your web browser(on same machine) and enter the url
-It will take you to mongo-express web interface.
-
+**Now go to your web browser(on same machine) and enter the url**
+**It will take you to mongo-express web interface.**
 
 
 
