@@ -1,12 +1,12 @@
 
-
+ 
 
 
 Steps to get all deployments, pods and corresponding services
 
-  kubectl get all
-  kubectl get configmap
-  kubectl get secret
+  kubectl get all,
+  kubectl get configmap,
+  kubectl get secret,
 
 Steps to delete the cluster of mongoDB and mongoExpress via configuration yaml files
 
